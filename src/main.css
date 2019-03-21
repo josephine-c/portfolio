@@ -1,0 +1,414 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500|Permanent+Marker");
+h1 {
+  font-family: "Permanent Marker", cursive;
+  font-size: 40px;
+  color: #D3DDE2;
+}
+
+h2 {
+  font-family: "Permanent Marker", cursive;
+  font-size: 40px;
+  color: #D3DDE2;
+}
+
+p {
+  font-weight: 500;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  color: #7285A0;
+}
+
+nav {
+  left: 0;
+}
+nav a {
+  line-height: 3.3em;
+  display: inline-block;
+  transition: color 0.3s ease;
+}
+nav #menuToggle {
+  display: block;
+  position: fixed;
+  top: 50px;
+  right: 28px;
+  z-index: 4;
+  -webkit-user-select: none;
+  user-select: none;
+}
+nav #menuToggle input {
+  display: block;
+  width: 40px;
+  height: 32px;
+  position: absolute;
+  top: -7px;
+  left: -5px;
+  cursor: pointer;
+  opacity: 0;
+  z-index: 5;
+  -webkit-touch-callout: none;
+}
+nav #menuToggle span {
+  display: block;
+  width: 33px;
+  height: 4px;
+  margin-bottom: 5px;
+  position: relative;
+  background: white;
+  border-radius: 3px;
+  z-index: 4;
+  transform-origin: 4px 0px;
+  transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1), opacity 0.55s ease;
+}
+nav #menuToggle #one {
+  transform-origin: 0% 0%;
+}
+nav #menuToggle #two {
+  transform-origin: 0% 100%;
+}
+nav #menuToggle input:checked ~ span {
+  opacity: 1;
+  transform: rotate(45deg) translate(2px, -2px);
+  background: #D3DDE2;
+}
+nav #menuToggle input:checked ~ #two {
+  opacity: 0;
+  transform: rotate(0deg) scale(0.2, 0.2);
+}
+nav #menuToggle input:checked ~ #three {
+  transform: rotate(-45deg) translate(2px, -2px);
+}
+nav #menuToggle #menu {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  margin: 0 0 0 0;
+  padding: 2px;
+  padding-top: 15px;
+  background: rgba(255, 255, 255, 0.479);
+  transform-origin: 0% 0%;
+  transform: translate(200%, 0);
+  transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
+}
+nav #menuToggle #menu a {
+  padding: 0px 0;
+}
+
+#menuToggle input:checked ~ #menu {
+  transform: none;
+}
+
+#home {
+  background-color: #051325;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#home h1 {
+  margin-bottom: 2px;
+}
+#home p {
+  font-size: 12px;
+  margin-top: 0px;
+}
+
+#bio {
+  background: url("/image/IMG_20181129_163823.jpg") no-repeat center center fixed;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#bio h2 {
+  font-size: 60px;
+  margin-bottom: 2px;
+}
+#bio p {
+  font-size: 14px;
+  margin-top: 0px;
+  color: #0B131D;
+}
+
+#portfolio {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+#portfolio .triTop {
+  -webkit-clip-path: polygon 0 0, 100% 100%, 0 100%;
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+  position: absolute;
+  z-index: 1;
+  left: 0px;
+}
+#portfolio .triTop img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  object-position: 0 100%;
+}
+#portfolio .triBase {
+  -webkit-clip-path: polygon 0 0, 0 100%, 100% 100%;
+  clip-path: polygon(100% 100%, 100% 0, 0 100%);
+  position: absolute;
+  z-index: 2;
+}
+#portfolio .triBase img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+
+#skills {
+  background-color: #051325;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+#skills table {
+  font-weight: 500;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  color: #7285A0;
+  color: #7285A0;
+  border: 1px solid #7285A0;
+}
+#skills table th {
+  text-align: left;
+  border-bottom: 1px solid #7285A0;
+}
+#skills h2 {
+  font-size: 18px;
+  color: #D3DDE2;
+  margin-top: 10px;
+  margin-bottom: 3px;
+}
+#skills p {
+  color: #7285A0;
+  margin-top: 1px;
+  margin-bottom: 3px;
+}
+#skills .wrapper {
+  overflow: hidden;
+}
+#skills .sliding {
+  background: url("#") repeat-x;
+  height: 125px;
+  width: 5076px;
+}
+#skills .work_logos {
+  display: flex;
+  flex-direction: column;
+}
+#skills .work_logos div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: initial;
+  display: inline-block;
+}
+#skills .work_logos div img {
+  object-fit: contain;
+}
+
+#contact {
+  background: url("/image/IMG_20180912_091854.jpg") no-repeat center center fixed;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+#contact .opacity {
+  width: 100%;
+  height: 100%;
+  background-color: #04143471;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#contact .connect {
+  width: 100%;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#contact .connect div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px 0;
+}
+#contact .connect p {
+  color: white;
+  font-size: 25px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  z-index: 3;
+}
+#contact h2 {
+  font-size: 40px;
+  color: #041434;
+}
+#contact p {
+  color: #041434;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+@media screen and (min-width: 768px) {
+  #home {
+    justify-content: flex-start;
+  }
+  #home h1 {
+    font-size: 290px;
+  }
+  #home p {
+    font-size: 20px;
+  }
+
+  #bio {
+    background-color: #0B131D;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #bio h2 {
+    font-size: 100px;
+    margin-bottom: 2px;
+  }
+  #bio p {
+    font-size: 17px;
+    margin-top: 0px;
+  }
+
+  #portfolio {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  #portfolio .triTop {
+    -webkit-clip-path: polygon 0 0, 100% 100%, 0 100%;
+    clip-path: polygon(0 0, 100% 0, 0 100%);
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+  }
+  #portfolio .triTop img {
+    width: auto;
+    height: 100vh;
+  }
+  #portfolio .triBase {
+    -webkit-clip-path: polygon 0 0, 0 100%, 100% 100%;
+    clip-path: polygon(100% 100%, 100% 0, 0 100%);
+    position: absolute;
+    z-index: 2;
+  }
+  #portfolio .triBase img {
+    width: auto;
+    height: 100vh;
+  }
+
+  #skills {
+    background-color: #7285A0;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  #skills table {
+    font-weight: 500;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    color: #7285A0;
+    color: #0B131D;
+    border: 1px solid #0D3F67;
+  }
+  #skills table th {
+    text-align: left;
+    border-bottom: 1px solid #0D3F67;
+  }
+  #skills h2 {
+    font-size: 12px;
+  }
+  #skills p {
+    color: #041434;
+  }
+
+  #contact .opacity {
+    width: 100%;
+    height: 100%;
+    background-color: #04143471;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  #contact .connect {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: space-between;
+    z-index: 3;
+  }
+  #contact .connect p {
+    color: white;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    align-items: center;
+    z-index: 3;
+  }
+  #contact .connect div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 3;
+  }
+  #contact h2 {
+    font-size: 90px;
+    color: #041434;
+    margin-bottom: 0px;
+    text-align: center;
+    z-index: 3;
+  }
+  #contact p {
+    color: #D3DDE2;
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 110px;
+    text-align: center;
+    z-index: 3;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */
