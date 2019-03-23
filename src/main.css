@@ -322,7 +322,7 @@ nav #menuToggle #menu a {
   font-weight: bolder;
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 500px) {
   #home {
     justify-content: flex-start;
   }
@@ -333,16 +333,6 @@ nav #menuToggle #menu a {
     font-size: 20px;
   }
 
-  #bio {
-    background-color: #0B131D;
-    background-size: cover;
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
   #bio h2 {
     font-size: 100px;
     margin-bottom: 2px;
@@ -378,20 +368,15 @@ nav #menuToggle #menu a {
   }
 
   #skills {
-    background-color: #7285A0;
-    background-size: cover;
     width: 100%;
     height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
   }
   #skills table {
     font-weight: 500;
     font-family: "Montserrat", Helvetica, Arial, sans-serif;
     font-size: 10px;
     color: #7285A0;
+    font-size: 12px;
     border: 1px solid #0D3F67;
   }
   #skills table th {
@@ -401,20 +386,26 @@ nav #menuToggle #menu a {
   #skills .skillmain {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-start;
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    width: 100vw;
   }
   #skills .skillmain .skillText {
     display: inline-block;
-    height: 100%;
-    width: 50vw;
+    text-align: left;
+    margin: 30px 100px;
+  }
+  #skills .skillmain .skillText p {
+    font-size: 12px;
+    margin-bottom: 5px;
   }
   #skills .skillmain .skillImage {
     display: inline-block;
     height: 100%;
-    width: 50vw;
-    background-image: url("/image/EDC-eg.jpg") no-repeat center center fixed;
-    z-index: 2;
+    width: 60%;
+    background: url(/image/EDC-02.png) no-repeat center center;
+    background-size: contain;
   }
   #skills h2 {
     font-size: 25px;
@@ -425,6 +416,11 @@ nav #menuToggle #menu a {
   #skills .skillTitle {
     font-size: 60px;
     color: #D3DDE2;
+  }
+  #skills .member {
+    color: #D3DDE2;
+    font-weight: bold;
+    font-size: 12px;
   }
 
   #contact .opacity {
@@ -474,6 +470,63 @@ nav #menuToggle #menu a {
     margin-bottom: 110px;
     text-align: center;
     z-index: 3;
+  }
+}
+@media screen and (min-width: 1030px) {
+  #skills {
+    width: 100%;
+    height: 100vh;
+  }
+  #skills table {
+    font-weight: 500;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-size: 10px;
+    color: #7285A0;
+    font-size: 12px;
+    border: 1px solid #0D3F67;
+  }
+  #skills table th {
+    text-align: left;
+    border-bottom: 1px solid #0D3F67;
+  }
+  #skills .skillmain {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    width: 100vw;
+  }
+  #skills .skillmain .skillText {
+    display: inline-block;
+    text-align: left;
+    margin: 30px 100px;
+  }
+  #skills .skillmain .skillText p {
+    font-size: 12px;
+    margin-bottom: 5px;
+  }
+  #skills .skillmain .skillImage {
+    display: inline-block;
+    height: 100%;
+    width: 60%;
+    background: url(/image/EDC-01.png) no-repeat center center;
+    background-size: contain;
+  }
+  #skills h2 {
+    font-size: 25px;
+  }
+  #skills p {
+    color: #7285A0;
+  }
+  #skills .skillTitle {
+    font-size: 60px;
+    color: #D3DDE2;
+  }
+  #skills .member {
+    color: #D3DDE2;
+    font-weight: bold;
+    font-size: 12px;
   }
 }
 
