@@ -69,7 +69,7 @@ HTML5, CSS3, SASS, Git, GitHub pages, Photoshop, Trello
 
 ### Mood Board
 The mood board was created on my pinterest account. I have a deep affinity to the ocean being a certified Rescue SCUBA Diver. I collected images that would inspire me and set a mood for my portfolio website.
-![Mood board](hhttps://github.com/josephine-c/portfolio/blob/master/docs/moodboard_pinterest_portfolio_website.png "mood board")
+![Mood board](https://github.com/josephine-c/portfolio/blob/master/docs/moodboard_pinterest_portfolio_website.png "mood board")
 
 
 ### Wireframes
