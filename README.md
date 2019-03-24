@@ -161,113 +161,25 @@ This project plan helped me stay focused on building the core website and allowe
 
 ## Short Answer Q & A
 
-### Describe key events in the development of the internet from the 1980s to today (max. 150 words)
+### Describe key events in the development of the internet from the 1980s to today
 
-In 1981 The National Science Foundation releases CSNET 56 to allow computers to network without being connected to the government networks. This form of networking between computers birthed the concept of the internet, with the transfer of information between private computers.
+1. 1980 - Ethernet standard introduced, allowing computers to be hooked onto a network.
+2. 1982 - TCP/IP protocol suite formalized. This the standard for internet data transfer. This year Simple Mail Transfer Protocol (SMTP) was first defined (birth of the email).
+3. 1983 - Domain Name System (DNS) introduced to allow domain names to automatically be assigned an IP number.
+4. 1985 - First .COM domain name registered.
+5. 1990 – A hypertext system is created and implemented by Tim Berners-Lee (CERN).
+6. 1991 – CERN releases the World Wide Web publicly on August 6th, 1991.
+7. 1993 - Mosaic web browser released.
+8. 1994 - Full text web search engines are operational.
+9. 1995 - IPv6 proposed (creating more unique IP addresses).
+10. 1999 - IEEE 802.11b wireless networking (wifi was born).
+11. 2000 - Dot-com bubble bursts on March 10, 2000.
+12. 2001 - The spread of P2P file sharing across the Internet.
 
-In 1983 the migration of the ARPANet to TCP/IP was officially completed on Janurary 1, when the new protocols were permanently activatied. TCP/IP becomes the standard for internet protocol. This was the year that Domain Name System (DNS) introduced to allow domain names to automatically be assigned an IP number.
+### Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers
 
-In 1987
-
-
-
-1989- Arpanet ceases to exist (BACKBONE FOR INTERNET)
-
-late 80 commercial internet service providers ISP emerge
-
-1990 – A hypertext system is created and implemented by Tim Berners-Lee while working for CERN. (IMPORTANT)
-
-1990 – Advanced Network & Services (ANS) forms to research new ways to make internet speeds even faster. The group develops the T3 line and installs in on a number of networks.
-
-
-
-1990- The first search engine is created by McGill University, called the Archie Search Engine
-
-
-1991- U.S green-light for commercial enterprise to take place on the Internet
-
-1991 – The National Science Foundation (NSF) creates the National Research and Education Network (NREN).
-
-1991 – CERN releases the World Wide Web publicly on August 6th, 1991 (IMPORTANT-first internet browser)
-
-
-
-1992  The Internet Society (ISOC) is chartered
-
-1992- Number of hosts breaks 1,000,000
-
-1993 – InterNIC released to provide general services, a database and internet directory.
-
-1993- The first web browser, Mosaic (created by NCSA), is released. Mosaic later becomes the Netscape browser which was the most popular browser in the mid 1990’s.
-
-
-
-
-
-1996 – Nokia releases first cell phone with internet access.
-
-1997- (Arin) is established to handle administration and registration of IP numbers, now handled by Network Solutions (IinterNic)
-
-1998- Netscape releases source code for Navigator.
-
-1998-Internet Corporation for Assigned Names and Numbers (ICANN) created to be able to oversee a number of Internet-related tasks
-
-
-1999 – A wireless technology called 802.11b, more commonly referred to as Wi-Fi, is standardized.
-
-2000- The dot com bubble bursts, numerically, on March 10, 2000, when the technology heavy NASDAQ composite index peaked at 5,048.62
-
-2001 – Blackberry releases first internet cell phone in the United States.
-
-2001  The spread of P2P file sharing across the Internet
-
-2002 -Internet2 now has 200 university, 60 corporate and 40 affiliate members
-
-2003- The French Ministry of Culture bans the use of the word “e-mail” by government ministries, and adopts the use of the more French sounding “courriel”
-
-2004  The Term Web 2.0 rises in popularity when O’Reilly and MediaLive host the first Web 2.0 conference.
-
-2004- Mydoom, the fastest ever spreading email computer worm is released. Estimated 1 in 12 emails are infected.
-
-2005- Estonia offers Internet Voting nationally for local elections
-
-2005-Youtube launches
-
-2006- There are an estimated 92 million websites online
-
-2006  Zimbabwe’s internet access is almost completely cut off after international satellite communications provider Intelsat cuts service for non-payment
-
-2006- Internet2 announced a partnership with Level 3 Communications to launch a brand new nationwide network, boosting its capacity from 10Gbps to 100Gbps
-
-2007- Internet2 officially retires Abilene and now refers to its new, higher capacity network as the Internet2 Network
-
-2008- Google index reaches 1 Trillion URLs
-
-2008  NASA successfully tests the first deep space communications network modeled on the Internet. Using software called Disruption-Tolerant Networking, or DTN, dozens of space images are transmitted to and from a NASA science spacecraft located about more than 32 million kilometers from Earth
-
-2009  ICANN gains autonomy from the U.S government
-
-2010- Facebook announces in February that it has 400 million active users.
-
-2010  The U.S House of Representatives passes the Cybersecurity Enhancement Act (H.R. 4061)
-
-2012 – A major online protest shook up U.S. Congressional support for two anti-Web piracy bills – the Stop Online Piracy Act in the House and the Protect IP Act in the Senate. Many in the tech industry are concerned that the bills will give media companies too much power to shut down websites.
-
-### Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
-
-Domains (address) name - a text name to an IP
-Web servers (host the that address) - hardware- a computer - running for access (without user interface) - host domains, files, 
-DNS - phonebook for translates domain names to IP addresses so browsers can load Internet resources.
-Web browsing 
-web browsers - is software that allow humans to access the internet got to domains/ip
-
-The Domain Name Systems (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
-
-Each device connected to the Internet has a unique IP address which other machines use to find the device. DNS servers eliminate the need for humans to memorize IP addresses such as 192.168.1.1 (in IPv4), or more complex newer alphanumeric IP addresses such as 2400:cb00:2048:1::c629:d7a2 (in IPv6).
+Domain names are a unique text address that people enter, which have a companion IP address recognised by web servers. The Domain Name Systems (DNS) is the address book of the Internet and will recognised the domain name and translate it into it's respective IP address so web browsers can load Internet resources. Web browsers interact through Internet Protocol (IP) addresses. Each device connected to the Internet has a unique IP address which other computers use to find the device. DNS servers eliminate the need for people to memorize IP addresses such as 192.168.1.1 (in IPv4), or more complex newer alphanumeric IP addresses such as 2400:cb00:2048:1::c629:d7a2 (in IPv6).
 
 ### Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
 
-Email - global instant communication - not reliant on the postal service, instant free communication between any persons with email addresses. impact of this on the modern world is immesurable as it speeds up the process of internet messaging has replaced every other form of communication 
-
-
-
+The birth of the electronic mail, otherwise known as email has revolutionised the way people communicate on a global level. Since Simple Mail Transfer Protocol (SMTP) was first defined in 1982, there was no turning back for the way people communicated with each other on computers. The benefits of using emails via the internet was instant messaging, as long as you had access to the internet, no matter what location you were in the world (it did not discriminate against time or location, which was the major limiting factor for postal delivery of mail). We now use email as an official way to receive mail from major services such as universities, heath insurance and even some banks. Along-side the environmental benefits of reducing paper usage from physical letters, it has allowed us to stay in constant contact with loved ones daily from the other side of the earth.
