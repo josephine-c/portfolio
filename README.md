@@ -55,5 +55,13 @@ Homepage with menu-bar (below)
 ![Screenshot website - skills & experience page on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-skills.jpg "skills & experience page on mobile")
 ![Screenshot website - contact page on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-contact.jpg "contact page on mobile")
 
+# Target Audience
+
+Target audience for my website would potential employers (big companies to start-ups) who would see me as a perfect fit for their company.
+
+# Tech Stack
+
+HTML5, CSS3, SASS, Git, GitHub pages, Photoshop, Trello
+
 
 
