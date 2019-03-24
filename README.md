@@ -3,10 +3,10 @@
 Visit my **[portfolio website](https://josephine-c.github.io/)** or my **[GitHub Repo](https://github.com/josephine-c?tab=repositories)**.
 
 ## Description of website
-# Purpose
+### Purpose
 At the core the purpose of my portfolio website is to gain employment, by allowing potential clients/employers to get to know me by viewing my portfolio and social media links all on one website. There are also details for contacting me directly.
 
-# Features
+### Features
 There are 5 features on my portfolio website. These are:
 1. Home (Home/Landing page)
 2. About (Bio page)
@@ -26,18 +26,18 @@ The fourth feature is the 'Skills & Experience' page of the website. This sectio
 
 The fifth and final feature of the website is the 'Contact' page. This is one of the most important pages, as it is the purpose of the website - enabling potential collaborators or empolyers veiw my contact details to allow them to contact me. In my website I have provided links to my email, Linkedin, GitHub and ORCiD accounts, by which they can message me respectively. 
 
-# Sitemap
+### Sitemap
 
 ![Image of sitemap](https://github.com/josephine-c/portfolio/blob/master/docs/sitemap.png "sitemap")
 
 The sitemap shows the layout and flow of the website, and how all the pages are accessible via the menu-bar or by scrolling up and down the page.
 
-# Website Screenshots
+### Website Screenshots
 
-## View on the laptop/computer screen
+#### View on the laptop/computer screen
 ![Screenshot of whole website](https://github.com/josephine-c/portfolio/blob/master/docs/fullsite-pc.png "whole website")
 
-## View on the iPad screen
+#### View on the iPad screen
 ![Screenshot website - homepage on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-home.jpg "homepage on ipad")
 Homepage with menu-bar (below)
 ![Screenshot website - homepage with menu-bar on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-home-menu.jpg "homepage with menu-bar on ipad")
@@ -46,7 +46,7 @@ Homepage with menu-bar (below)
 ![Screenshot website - skills & experience page on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-skills.jpg "skills & experience page on ipad")
 ![Screenshot website - contact page on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-contact.jpg "contact page on ipad")
 
-## View on the mobile screen
+#### View on the mobile screen
 ![Screenshot website - homepage on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-home.jpg "homepage on mobile")
 Homepage with menu-bar (below)
 ![Screenshot website - homepage with menu-bar on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-home-menu.jpg "homepage with menu-bar on mobile")
@@ -55,13 +55,15 @@ Homepage with menu-bar (below)
 ![Screenshot website - skills & experience page on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-skills.jpg "skills & experience page on mobile")
 ![Screenshot website - contact page on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-contact.jpg "contact page on mobile")
 
-# Target Audience
+### Target Audience
 
 Target audience for my website would potential employers (big companies to start-ups) who would see me as a perfect fit for their company.
 
-# Tech Stack
+### Tech Stack
 
 HTML5, CSS3, SASS, Git, GitHub pages, Photoshop, Trello
+
+
 
 
 
