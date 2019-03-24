@@ -102,7 +102,7 @@ I picked two fonts from Google Fonts to used in my entire website:
 
         $title-font: 'Permanent Marker', cursive;
         $body-font: 'Montserrat', Helvetica, Arial, sans-serif;
-        
+
 ![Google fonts](https://github.com/josephine-c/portfolio/blob/master/docs/both%20fonts.jpg "Google fonts")
 
 1. Permanant Marker (I love this as I tend to write in capitals for my 'To Do' lists, so it seemed quite personal)
@@ -127,6 +127,11 @@ Using butchers paper and pen I mapped out my inital and final wireframe designs 
 ![Final wireframe laptop](https://github.com/josephine-c/portfolio/blob/master/docs/Final_wireframe02.png "Final wireframe laptop")
 
 ### Personal logo
+
+I used logojoy.com to quickly make a personal logo standin for this portfolio website project, while I develop my own personal logo properly without the project time constraints. As it is self/personal branding I used my initials JC as the main design component of my logo. I Went with a bright pink color to contrast with with dark blue background of my main/homepage. I love the color pink and had it as my hair dye color for a few years once upon a time. I also made the pink color spill out of the circle to mimic a personal wax seal used on envelopes, to give a more personal touch!
+
+![personal logo](https://github.com/josephine-c/portfolio/blob/master/docs/logo-70px.png "personal logo")
+
 
 ### Usability considerations
 
