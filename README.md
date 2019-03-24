@@ -111,6 +111,11 @@ I picked two fonts from Google Fonts to used in my entire website:
 2. Montserrat (I like the clean san-serif lines of this font. I wanted my text to be easy to read and look minimal and clean.)
 ![Google font Montserrat](https://github.com/josephine-c/portfolio/blob/master/docs/montserrat_san_serif_font.jpg "Google font Montserrat")
 
+#### Photos/Images
+All the photos and images used on this website are my own and I thought this was an important design aspect, as it adds a very personal touch to the website. The decision to use a everyday carry (EDC) photo of my hardware and everyday tools in the 'Skills and Experiance' page, allows me to share my personality with the viewer. It adds a personal touch/feeling and hopefully allows the viewer to build a image me of who I am by the tools I use.
+
+![Josephine's EDC](https://github.com/josephine-c/portfolio/blob/master/docs/EDC-jo.png "Josephine's EDC")
+My EDC
 
 ### Wireframes
 
@@ -152,6 +157,138 @@ Given 5-6 days to work on this portfolio website project, planning was critical.
 
 This project plan helped me stay focused on building the core website and allowed me to explore my stretch goals.
 
+## Short Answer Q & A
+
+### Describe key events in the development of the internet from the 1980s to today (max. 150 words)
+
+1981 In 1981 The National Science Foundation releases CSNET 56 to allow computers to network without being connected to the government networks. This form of networking between computers birthed the concept of the internet, with the transfer of information between private computers.
+
+1982 - TCP/IP standardarised 
+
+late 80 commercial internet service providers ISP emerge
+
+
+
+In 1981 The National Science Foundation releases CSNET 56 to allow computers to network without being connected to the government networks. This form of networking between computers birthed the concept of the internet, with the transfer of information between private computers. 
+
+In 1983 – Internet Activities Board released.
+
+1983 – TCP/IP becomes the standard for internet protocol. (IMPORTANT)
+
+1983 – Domain Name System introduced to allow domain names to automatically be assigned an IP number.
+
+1984 – MCI creates T1 lines to allow for faster transportation of information over the internet.
+
+1984- The number of Hosts breaks 1,000
+
+1985- 100 years to the day of the last spike being driven on the Canadian Pacific Railway, the last Canadian university was connected to NetNorth in a one year effort to have coast-to-coast connectivity
+
+1987 – The new network CREN forms.
+
+1987- The number of hosts breaks 10,000
+
+1988 – Traffic rises and plans are to find a new replacement for the T1 lines.
+
+1989- The Number of hosts breaks 100 000
+
+1989- Arpanet ceases to exist (BACKBONE FOR INTERNET)
+
+1990 – Advanced Network & Services (ANS) forms to research new ways to make internet speeds even faster. The group develops the T3 line and installs in on a number of networks.
+
+1990 – A hypertext system is created and implemented by Tim Berners-Lee while working for CERN. (IMPORTANT)
+
+1990- The first search engine is created by McGill University, called the Archie Search Engine
+
+1991- U.S green-light for commercial enterprise to take place on the Internet
+
+1991 – The National Science Foundation (NSF) creates the National Research and Education Network (NREN).
+
+1991 – CERN releases the World Wide Web publicly on August 6th, 1991 (IMPORTANT-first internet browser)
+
+1992  The Internet Society (ISOC) is chartered
+
+1992- Number of hosts breaks 1,000,000
+
+1993 – InterNIC released to provide general services, a database and internet directory.
+
+1993- The first web browser, Mosaic (created by NCSA), is released. Mosaic later becomes the Netscape browser which was the most popular browser in the mid 1990’s.
+
+1994 – New networks added frequently.
+
+1994 – First internet ordering system created by Pizza Hut.
+
+1994 – First internet bank opened: First Virtual.
+
+1995 – NSF contracts out their access to four internet providers.
+
+1995 – NSF sells domains for a $50 annual fee.
+
+1995  Netscape goes public with 3rd largest ever NASDAQ IPO share value
+
+1995- Registration of domains is no longer free.
+
+1996- The WWW browser wars are waged mainly between Microsoft and Netscape. New versions are released quarterly with the aid of internet users eager to test new (beta) versions.
+
+1996  Internet2 project is initiated by 34 universities
+
+1996 – Internet Service Providers begin appearing such as Sprint and MCI.
+
+1996 – Nokia releases first cell phone with internet access.
+
+1997- (Arin) is established to handle administration and registration of IP numbers, now handled by Network Solutions (IinterNic)
+
+1998- Netscape releases source code for Navigator.
+
+1998-Internet Corporation for Assigned Names and Numbers (ICANN) created to be able to oversee a number of Internet-related tasks
+
+1999 – A wireless technology called 802.11b, more commonly referred to as Wi-Fi, is standardized.
+
+2000- The dot com bubble bursts, numerically, on March 10, 2000, when the technology heavy NASDAQ composite index peaked at 5,048.62
+
+2001 – Blackberry releases first internet cell phone in the United States.
+
+2001  The spread of P2P file sharing across the Internet
+
+2002 -Internet2 now has 200 university, 60 corporate and 40 affiliate members
+
+2003- The French Ministry of Culture bans the use of the word “e-mail” by government ministries, and adopts the use of the more French sounding “courriel”
+
+2004  The Term Web 2.0 rises in popularity when O’Reilly and MediaLive host the first Web 2.0 conference.
+
+2004- Mydoom, the fastest ever spreading email computer worm is released. Estimated 1 in 12 emails are infected.
+
+2005- Estonia offers Internet Voting nationally for local elections
+
+2005-Youtube launches
+
+2006- There are an estimated 92 million websites online
+
+2006  Zimbabwe’s internet access is almost completely cut off after international satellite communications provider Intelsat cuts service for non-payment
+
+2006- Internet2 announced a partnership with Level 3 Communications to launch a brand new nationwide network, boosting its capacity from 10Gbps to 100Gbps
+
+2007- Internet2 officially retires Abilene and now refers to its new, higher capacity network as the Internet2 Network
+
+2008- Google index reaches 1 Trillion URLs
+
+2008  NASA successfully tests the first deep space communications network modeled on the Internet. Using software called Disruption-Tolerant Networking, or DTN, dozens of space images are transmitted to and from a NASA science spacecraft located about more than 32 million kilometers from Earth
+
+2009  ICANN gains autonomy from the U.S government
+
+2010- Facebook announces in February that it has 400 million active users.
+
+2010  The U.S House of Representatives passes the Cybersecurity Enhancement Act (H.R. 4061)
+
+2012 – A major online protest shook up U.S. Congressional support for two anti-Web piracy bills – the Stop Online Piracy Act in the House and the Protect IP Act in the Senate. Many in the tech industry are concerned that the bills will give media companies too much power to shut down websites.
+
+### Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
+
+Domains (address)
+Web servers (host the that address)
+DNS 
+Web browsing 
+
+### Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
 
 
 
