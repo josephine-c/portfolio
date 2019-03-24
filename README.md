@@ -34,30 +34,25 @@ The sitemap shows the layout and flow of the website, and how all the pages are 
 
 # Website Screenshots
 
+##View on the laptop/computer screen
 ![Screenshot of whole website](https://github.com/josephine-c/portfolio/blob/master/docs/fullsite-pc.png "whole website")
 
+##View on the iPad screen
 ![Screenshot website - homepage on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-home.jpg "homepage on ipad")
-
+Homepage with menu-bar (below)
 ![Screenshot website - homepage with menu-bar on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-home-menu.jpg "homepage with menu-bar on ipad")
-
 ![Screenshot website - bio page on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-bio.jpg "bio page on ipad")
-
 ![Screenshot website - portfolio page on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-portfolio.jpg "portfolio page on ipad")
-
 ![Screenshot website - skills & experience page on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-skills.jpg "skills & experience page on ipad")
-
 ![Screenshot website - contact page on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-contact.jpg "contact page on ipad")
 
+##View on the mobile screen
 ![Screenshot website - homepage on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-home.jpg "homepage on mobile")
-
+Homepage with menu-bar (below)
 ![Screenshot website - homepage with menu-bar on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-home-menu.jpg "homepage with menu-bar on mobile")
-
 ![Screenshot website - bio page on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-bio.jpg "bio page on mobile")
-
 ![Screenshot website - portfolio page on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-portfolio.jpg "portfolio page on mobile")
-
 ![Screenshot website - skills & experience page on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-skills.jpg "skills & experience page on mobile")
-
 ![Screenshot website - contact page on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-contact.jpg "contact page on mobile")
 
 
