@@ -34,10 +34,10 @@ The sitemap shows the layout and flow of the website, and how all the pages are 
 
 # Website Screenshots
 
-##View on the laptop/computer screen
+## View on the laptop/computer screen
 ![Screenshot of whole website](https://github.com/josephine-c/portfolio/blob/master/docs/fullsite-pc.png "whole website")
 
-##View on the iPad screen
+## View on the iPad screen
 ![Screenshot website - homepage on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-home.jpg "homepage on ipad")
 Homepage with menu-bar (below)
 ![Screenshot website - homepage with menu-bar on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-home-menu.jpg "homepage with menu-bar on ipad")
@@ -46,7 +46,7 @@ Homepage with menu-bar (below)
 ![Screenshot website - skills & experience page on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-skills.jpg "skills & experience page on ipad")
 ![Screenshot website - contact page on ipad](https://github.com/josephine-c/portfolio/blob/master/docs/ipad-contact.jpg "contact page on ipad")
 
-##View on the mobile screen
+## View on the mobile screen
 ![Screenshot website - homepage on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-home.jpg "homepage on mobile")
 Homepage with menu-bar (below)
 ![Screenshot website - homepage with menu-bar on mobile](https://github.com/josephine-c/portfolio/blob/master/docs/mobile-home-menu.jpg "homepage with menu-bar on mobile")
