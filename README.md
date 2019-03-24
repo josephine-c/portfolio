@@ -28,7 +28,7 @@ The fifth and final feature of the website is the 'Contact' page. This is one of
 
 # Sitemap
 
-![Image of sitemap](/portfolio/docs/sitemap.png)
+![Image of sitemap](https://github.com/josephine-c/portfolio/blob/master/docs/sitemap.png "sitemap")
 
 The sitemap shows the laypout and flow of the website, and how pages are accessible via the menu-bar or by scrolling up and down the page.
 
