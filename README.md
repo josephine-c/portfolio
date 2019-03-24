@@ -63,6 +63,18 @@ Target audience for my website would potential employers (big companies to start
 
 HTML5, CSS3, SASS, Git, GitHub pages, Photoshop, Trello
 
+## Design Documentation
+
+### Design Process
+
+### Wireframes
+
+### Personal logo
+
+### Usability considerations
+
+Have added in html 'lang="en"' to enable the page to be recognised for reading in English. Have also added 'alt' tags in images in the website, to enable people using the page to voice extension to know what the images/icon/logos are of. Good contrast was also used and check in color section of the Developers Tools on Chrome to ensure that strong contrast is used between text and background, to allow readability for people who may have color blindness. Consistent location of the menu-bar and using icons instead of words will also allow for easy access and viewing. 
+
 
 
 
