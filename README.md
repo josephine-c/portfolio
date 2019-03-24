@@ -67,9 +67,22 @@ HTML5, CSS3, SASS, Git, GitHub pages, Photoshop, Trello
 
 ### Design Process
 
-### Mood Board
+#### Mood Board
 The mood board was created on my pinterest account. I have a deep affinity to the ocean being a certified Rescue SCUBA Diver. I collected images that would inspire me and set a mood for my portfolio website.
 ![Mood board](https://github.com/josephine-c/portfolio/blob/master/docs/moodboard_pinterest_portfolio_website.png "mood board")
+
+#### Color Scheme
+I took a few of the images from my mood board to develop and create my own personal color scheme using canva.com
+
+#### Typography
+I picked two fonts from Google Fonts to used in my entire website:
+![Google fonts](https://github.com/josephine-c/portfolio/blob/master/docs/both%20fonts.jpg "Google fonts")
+
+1. Permanant Marker (I love this as I tend to write in capitals for my 'To Do' lists, so it seemed quite personal)
+![Google font Permanant Marker](https://github.com/josephine-c/portfolio/blob/master/docs/permanent_marker_font.jpg "Google font Permanant Marker")
+
+2. Montserrat (I like the clean san-serif lines of this font. I wanted my text to be easy to read and look minimal and clean.)
+![Google font Montserrat](https://github.com/josephine-c/portfolio/blob/master/docs/montserrat_san_serif_font.jpg "Google font Montserrat")
 
 
 ### Wireframes
