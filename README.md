@@ -26,4 +26,9 @@ The fourth feature is the 'Skills & Experience' page of the website. This sectio
 
 The fifth and final feature of the website is the 'Contact' page. This is one of the most important pages, as it is the purpose of the website - enabling potential collaborators or empolyers veiw my contact details to allow them to contact me. In my website I have provided links to my email, Linkedin, GitHub and ORCiD accounts, by which they can message me respectively. 
 
+# Sitemap
+
+![Image of sitemap](https://github.com/josephine-c/portfolio/tree/master/docs/sitemap.png)
+
+The sitemap shows the laypout and flow of the website, and how pages are accessible via the menu-bar or by scrolling up and down the page.
 
