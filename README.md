@@ -99,8 +99,10 @@ I then set these colors plus a white, as variables that will dictate which font 
 
 #### Typography
 I picked two fonts from Google Fonts to used in my entire website:
+
         $title-font: 'Permanent Marker', cursive;
         $body-font: 'Montserrat', Helvetica, Arial, sans-serif;
+        
 ![Google fonts](https://github.com/josephine-c/portfolio/blob/master/docs/both%20fonts.jpg "Google fonts")
 
 1. Permanant Marker (I love this as I tend to write in capitals for my 'To Do' lists, so it seemed quite personal)
