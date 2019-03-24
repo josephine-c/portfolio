@@ -74,7 +74,7 @@ HTML5, CSS3, SASS, Git, GitHub pages, Photoshop, Trello
 
 #### Final design concept (Mobile/iPad/laptop)
 ##### For Mobile and iPad
-![Final wireframe Mobile/iPad](https://github.com/josephine-c/portfolio/commit/839bc33d100f81720094ca5481c40b18fd7a3eff "Final wireframe Mobile/iPad")
+![Final wireframe Mobile/iPad](https://github.com/josephine-c/portfolio/blob/master/docs/Final_wireframe01.png "Final wireframe Mobile/iPad")
 
 ##### For laptop
 ![Final wireframe laptop](https://github.com/josephine-c/portfolio/blob/master/docs/Final_wireframe02.png "Final wireframe laptop")
