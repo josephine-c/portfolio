@@ -150,6 +150,8 @@ Given 5-6 days to work on this portfolio website project, planning was critical.
 
 ![Trello](https://github.com/josephine-c/portfolio/blob/master/docs/trello01.png "Trello")
 
+![Trello 2](https://github.com/josephine-c/portfolio/blob/master/docs/trello02.jpg "Trello 2")
+
 #### Main sprints:
 1.	Design (19.3.2019): Moodboard, typography, wireframe (mobile, laptop), color palette
 2.	Build (20.3.2019 – 22.3.2019): HTML, CSS, SASS-CSS (using flexbox, Chrome developer tools for styling)
@@ -161,49 +163,34 @@ This project plan helped me stay focused on building the core website and allowe
 
 ### Describe key events in the development of the internet from the 1980s to today (max. 150 words)
 
-1981 In 1981 The National Science Foundation releases CSNET 56 to allow computers to network without being connected to the government networks. This form of networking between computers birthed the concept of the internet, with the transfer of information between private computers.
+In 1981 The National Science Foundation releases CSNET 56 to allow computers to network without being connected to the government networks. This form of networking between computers birthed the concept of the internet, with the transfer of information between private computers.
 
-1982 - TCP/IP standardarised 
+In 1983 the migration of the ARPANet to TCP/IP was officially completed on Janurary 1, when the new protocols were permanently activatied. TCP/IP becomes the standard for internet protocol. This was the year that Domain Name System (DNS) introduced to allow domain names to automatically be assigned an IP number.
 
-late 80 commercial internet service providers ISP emerge
+In 1987
 
 
-
-In 1981 The National Science Foundation releases CSNET 56 to allow computers to network without being connected to the government networks. This form of networking between computers birthed the concept of the internet, with the transfer of information between private computers. 
-
-In 1983 – Internet Activities Board released.
-
-1983 – TCP/IP becomes the standard for internet protocol. (IMPORTANT)
-
-1983 – Domain Name System introduced to allow domain names to automatically be assigned an IP number.
-
-1984 – MCI creates T1 lines to allow for faster transportation of information over the internet.
-
-1984- The number of Hosts breaks 1,000
-
-1985- 100 years to the day of the last spike being driven on the Canadian Pacific Railway, the last Canadian university was connected to NetNorth in a one year effort to have coast-to-coast connectivity
-
-1987 – The new network CREN forms.
-
-1987- The number of hosts breaks 10,000
-
-1988 – Traffic rises and plans are to find a new replacement for the T1 lines.
-
-1989- The Number of hosts breaks 100 000
 
 1989- Arpanet ceases to exist (BACKBONE FOR INTERNET)
 
-1990 – Advanced Network & Services (ANS) forms to research new ways to make internet speeds even faster. The group develops the T3 line and installs in on a number of networks.
+late 80 commercial internet service providers ISP emerge
 
 1990 – A hypertext system is created and implemented by Tim Berners-Lee while working for CERN. (IMPORTANT)
 
+1990 – Advanced Network & Services (ANS) forms to research new ways to make internet speeds even faster. The group develops the T3 line and installs in on a number of networks.
+
+
+
 1990- The first search engine is created by McGill University, called the Archie Search Engine
+
 
 1991- U.S green-light for commercial enterprise to take place on the Internet
 
 1991 – The National Science Foundation (NSF) creates the National Research and Education Network (NREN).
 
 1991 – CERN releases the World Wide Web publicly on August 6th, 1991 (IMPORTANT-first internet browser)
+
+
 
 1992  The Internet Society (ISOC) is chartered
 
@@ -213,25 +200,9 @@ In 1983 – Internet Activities Board released.
 
 1993- The first web browser, Mosaic (created by NCSA), is released. Mosaic later becomes the Netscape browser which was the most popular browser in the mid 1990’s.
 
-1994 – New networks added frequently.
 
-1994 – First internet ordering system created by Pizza Hut.
 
-1994 – First internet bank opened: First Virtual.
 
-1995 – NSF contracts out their access to four internet providers.
-
-1995 – NSF sells domains for a $50 annual fee.
-
-1995  Netscape goes public with 3rd largest ever NASDAQ IPO share value
-
-1995- Registration of domains is no longer free.
-
-1996- The WWW browser wars are waged mainly between Microsoft and Netscape. New versions are released quarterly with the aid of internet users eager to test new (beta) versions.
-
-1996  Internet2 project is initiated by 34 universities
-
-1996 – Internet Service Providers begin appearing such as Sprint and MCI.
 
 1996 – Nokia releases first cell phone with internet access.
 
@@ -240,6 +211,7 @@ In 1983 – Internet Activities Board released.
 1998- Netscape releases source code for Navigator.
 
 1998-Internet Corporation for Assigned Names and Numbers (ICANN) created to be able to oversee a number of Internet-related tasks
+
 
 1999 – A wireless technology called 802.11b, more commonly referred to as Wi-Fi, is standardized.
 
@@ -283,14 +255,19 @@ In 1983 – Internet Activities Board released.
 
 ### Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
 
-Domains (address)
-Web servers (host the that address)
-DNS 
+Domains (address) name - a text name to an IP
+Web servers (host the that address) - hardware- a computer - running for access (without user interface) - host domains, files, 
+DNS - phonebook for translates domain names to IP addresses so browsers can load Internet resources.
 Web browsing 
+web browsers - is software that allow humans to access the internet got to domains/ip
+
+The Domain Name Systems (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+
+Each device connected to the Internet has a unique IP address which other machines use to find the device. DNS servers eliminate the need for humans to memorize IP addresses such as 192.168.1.1 (in IPv4), or more complex newer alphanumeric IP addresses such as 2400:cb00:2048:1::c629:d7a2 (in IPv6).
 
 ### Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
 
-
+Email - global instant communication - not reliant on the postal service, instant free communication between any persons with email addresses. impact of this on the modern world is immesurable as it speeds up the process of internet messaging has replaced every other form of communication 
 
 
 
