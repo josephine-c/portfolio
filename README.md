@@ -67,7 +67,14 @@ HTML5, CSS3, SASS, Git, GitHub pages, Photoshop, Trello
 
 ### Design Process
 
+### Mood Board
+The mood board was created on my pinterest account. I have a deep affinity to the ocean being a certified Rescue SCUBA Diver. I collected images that would inspire me and set a mood for my portfolio website.
+![Mood board](hhttps://github.com/josephine-c/portfolio/blob/master/docs/moodboard_pinterest_portfolio_website.png "mood board")
+
+
 ### Wireframes
+
+Using butchers paper and pen I mapped out my inital and final wireframe designs for the website considering 3 different screen sizes: mobile (~400px), ipad (min-width: 500px), and laptop (min-width: 1030px).
 
 #### Inital concept (Mobile first design)
 ![Inital wireframe](https://github.com/josephine-c/portfolio/blob/master/docs/Inital_mobile_wireframe01.png "Inital wireframe")
