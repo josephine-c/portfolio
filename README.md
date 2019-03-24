@@ -137,6 +137,22 @@ I used logojoy.com to quickly make a personal logo stand-in for this portfolio w
 
 Have added in html 'lang="en"' to enable the page to be recognised for reading in English. Have also added 'alt' tags in images in the website, to enable people using the page to voice extension to know what the images/icon/logos are of. Good contrast was also used and check in color section of the Developers Tools on Chrome to ensure that strong contrast is used between text and background, to allow readability for people who may have color blindness. Consistent location of the menu-bar and using icons instead of words will also allow for easy access and viewing. 
 
+## Project Planning Process
+
+### Project plan and timeline
+
+Given 5-6 days to work on this portfolio website project, planning was critical. The project was assigned on 19.3.2019. I used agile project management structure with a core sprint for Design, Build and Stretch goals displayed on Trello. I saved my code consistently using the GIT repository and pushed to GitHUB, to ensure a copy is saved in my GitHUB Repos for safe keeping. 
+
+![Trello](https://github.com/josephine-c/portfolio/blob/master/docs/trello01.png "Trello")
+
+#### Main sprints:
+1.	Design (19.3.2019): Moodboard, typography, wireframe (mobile, laptop), color palette
+2.	Build (20.3.2019 – 22.3.2019): HTML, CSS, SASS-CSS (using flexbox, Chrome developer tools for styling)
+3.	Stretch (22.3.2019 – 23.3.2019): Debugging, checking responsiveness on different devices and adding 'alt' tags to accessibility for the website, if time permitted animations and burger menu. Need to compile a 5min presentation (pdf) by 24.3.2019.
+
+This project plan helped me stay focused on building the core website and allowed me to explore my stretch goals.
+
+
 
 
 
