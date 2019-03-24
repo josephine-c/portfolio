@@ -72,10 +72,35 @@ The mood board was created on my pinterest account. I have a deep affinity to th
 ![Mood board](https://github.com/josephine-c/portfolio/blob/master/docs/moodboard_pinterest_portfolio_website.png "mood board")
 
 #### Color Scheme
-I took a few of the images from my mood board to develop and create my own personal color scheme using canva.com
+I took a few of the images from my mood board to develop and create my own personal color scheme using canva.com. These were the first few images:
+![Color scheme 1](https://github.com/josephine-c/portfolio/blob/master/docs/color_scheme_1.png "Color scheme 1")
+![Color scheme 2](https://github.com/josephine-c/portfolio/commit/79f8620c48c10a60f90fb148f0e92568d4eb71ab "Color scheme 2")
+![Color scheme 3](https://github.com/josephine-c/portfolio/blob/master/docs/color_scheme_3.png "Color scheme 3")
+![Color scheme 4](https://github.com/josephine-c/portfolio/blob/master/docs/color_scheme_4.png "Color scheme 4")
+![Color scheme 5](https://github.com/josephine-c/portfolio/blob/master/docs/color_scheme_5.png "Color scheme 5")
+![Color scheme 6](https://github.com/josephine-c/portfolio/blob/master/docs/color_scheme_6.png "Color scheme 6")
+![Color scheme 7](https://github.com/josephine-c/portfolio/blob/master/docs/color_scheme_7.png "Color scheme 7")
+![Color scheme 8](https://github.com/josephine-c/portfolio/blob/master/docs/color_scheme_8.png "Color scheme 8")
+
+I then refined the images I liked:
+![Color scheme all](https://github.com/josephine-c/portfolio/blob/master/docs/final_color_scheme.png "Color scheme all")
+
+I then hand picked the colors I liked from all these selected images to create my own personal color scheme for my portfolio website:
+![Color scheme all](https://github.com/josephine-c/portfolio/blob/master/docs/final_color_scheme_combined.png "Color scheme all")
+I then set these colors plus a white, as variables that will dictate which font or background color I use throughout the website:
+
+        $color-white: rgb(255, 255, 255);
+        $color-lt-steel-blue:#D3DDE2;
+        $color-lt-slate-grey: #7285A0;
+        $color-midnight-blue: #0D3F67;
+        $color-navy: #041434;
+        $color-dk-midnight-blue: #051325;
+        $color-dk-midnight-blue2: #0B131D;
 
 #### Typography
 I picked two fonts from Google Fonts to used in my entire website:
+        $title-font: 'Permanent Marker', cursive;
+        $body-font: 'Montserrat', Helvetica, Arial, sans-serif;
 ![Google fonts](https://github.com/josephine-c/portfolio/blob/master/docs/both%20fonts.jpg "Google fonts")
 
 1. Permanant Marker (I love this as I tend to write in capitals for my 'To Do' lists, so it seemed quite personal)
